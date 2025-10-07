@@ -52,7 +52,7 @@ Esta API foi criada com o objetivo de simplificar o gerenciamento escolar. Ela p
    docker run -p 5002:5002 flask-api
    ```
 4. Acesse a documentação interativa:  
-   👉 [http://localhost:5002/apidocs](http://localhost:5002/apidocs)
+   - [http://localhost:5002/apidocs](http://localhost:5002/apidocs)
 
 ---
 
@@ -67,7 +67,7 @@ Esta API foi criada com o objetivo de simplificar o gerenciamento escolar. Ela p
    python app.py
    ```
 3. Acesse a documentação interativa:  
-   👉 [http://localhost:5002/apidocs](http://localhost:5002/apidocs)
+   - [http://localhost:5002/apidocs](http://localhost:5002/apidocs)
 
 ---
 
