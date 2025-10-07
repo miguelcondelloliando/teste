@@ -1,6 +1,3 @@
-
----
-
 # 🎓 API de Gerenciamento Escolar
 
 Sistema desenvolvido para facilitar o controle de dados escolares, incluindo professores, turmas e alunos. A API segue boas práticas de desenvolvimento e conta com validações específicas para cada entidade.
