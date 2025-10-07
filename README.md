@@ -84,12 +84,11 @@ Esta API foi criada com o objetivo de simplificar o gerenciamento escolar. Ela p
 
 ## 🔗 Endpoints Principais
 
-- `GET /professores/` – Listar professores  
-- `POST /professores/` – Criar novo professor  
-- `GET /turmas/` – Listar turmas  
-- `POST /turmas/` – Criar nova turma  
-- `GET /alunos/` – Listar alunos  
-- `POST /alunos/` – Criar novo aluno  
+| Recurso       | Caminho              | Operações Disponíveis         |
+|---------------|----------------------|-------------------------------|
+| 👨‍🏫 Professores | `/professores/`       | `GET`, `POST`, `PUT`, `DELETE` |
+| 🏫 Turmas       | `/turmas/`           | `GET`, `POST`, `PUT`, `DELETE` |
+| 👨‍🎓 Alunos       | `/alunos/`           | `GET`, `POST`, `PUT`, `DELETE` |
 
 ---
 
