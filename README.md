@@ -1,4 +1,3 @@
-Claro, Miguel! Aqui está uma versão mais bonita e organizada do seu README, com emojis, seções bem destacadas e uma linguagem mais envolvente para facilitar a leitura e causar uma ótima impressão:
 
 ---
 
