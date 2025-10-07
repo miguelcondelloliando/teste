@@ -17,7 +17,7 @@ Sistema desenvolvido para facilitar o controle de dados escolares, incluindo pro
 
 ---
 
-## 📌 Descrição
+## 📘 Descrição
 
 Esta API foi criada com o objetivo de simplificar o gerenciamento escolar. Ela permite:
 
@@ -25,8 +25,6 @@ Esta API foi criada com o objetivo de simplificar o gerenciamento escolar. Ela p
 - Organização de turmas
 - Associação de alunos às turmas
 - Cálculo de médias e acompanhamento de desempenho
-
-Tudo isso com uma interface documentada e fácil de usar!
 
 ---
 
@@ -43,7 +41,7 @@ Tudo isso com uma interface documentada e fácil de usar!
 
 ## 🚀 Como Executar
 
-### 🐳 Utilizando Docker
+### 🐳 Via Docker
 
 1. Certifique-se de ter o Docker instalado.
 2. No diretório do projeto, construa a imagem:
@@ -59,7 +57,7 @@ Tudo isso com uma interface documentada e fácil de usar!
 
 ---
 
-### 🐍 Utilizando Python diretamente
+### 🐍 Via Python
 
 1. Instale as dependências:
    ```bash
